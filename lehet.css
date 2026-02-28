@@ -365,7 +365,6 @@ footer{
     }
         body{
         background-color: var( --primay-tint);
-        color: var(--secondary-tint);
         }
 }
 
@@ -437,4 +436,5 @@ footer{
         /* background-color: blue;
         color: var(--black); */
     } 
+
 }
